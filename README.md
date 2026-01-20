@@ -43,7 +43,7 @@
 
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HammonDDDDD&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/? username=HammonDDDDD&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/?username=HammonDDDDD&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammonDDDDD&theme=tokyonight&hide_border=true&locale=ru)
 
@@ -63,7 +63,7 @@ AI-агент бизнес-аналитика с мультиагентным в
 ---
 
 ### 📊 [antibars-bot](https://github.com/HammonDDDDD/antibars-bot)
-![Python](https://img.shields.io/badge/Python-3776AB? style=flat-square&logo=python&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![Stars](https://img.shields.io/github/stars/HammonDDDDD/antibars-bot?style=flat-square)
 ![License](https://img.shields.io/github/license/HammonDDDDD/antibars-bot?style=flat-square)
 
@@ -71,12 +71,10 @@ Telegram-бот с мониторингом Google Sheets и системой п
 
 ---
 
-### 🎮 [Steel-Ball](https://github.com/HammonDDDDD/Steel-Ball)
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
-![Unity](https://img.shields.io/badge/Unity-000000? style=flat-square&logo=unity&logoColor=white)
-![Stars](https://img.shields.io/github/stars/HammonDDDDD/Steel-Ball?style=flat-square)
+📚 itmo-open-source-list
+![Python](https://img.shields.io/badge/Python-3776AB? style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/itmo-ai/itmo-open-source-list?style=flat-square) ![License](https://img.shields.io/github/license/itmo-ai/itmo-open-source-list?style=flat-square)
 
-Игровой проект на Unity с физикой rigidbody
+Репозиторий для сбора данных о открытых проектах ИТМО
 
 ---
 
@@ -84,7 +82,7 @@ Telegram-бот с мониторингом Google Sheets и системой п
 
 <div align="center">
 
-📧 **Email:** [denispyshkin2007@gmail.com](mailto:denispyshkin2007@gmail. com)
+📧 **Email:** [denispyshkin2007@gmail.com](mailto:denispyshkin2007@gmail.com)
 
 💬 **Telegram:** [@hammondddd](https://t.me/hammondddd)
 
