@@ -72,7 +72,9 @@ Telegram-бот с мониторингом Google Sheets и системой п
 ---
 
 📚 itmo-open-source-list
-![Python](https://img.shields.io/badge/Python-3776AB? style=flat-square&logo=python&logoColor=white) ![Stars](https://img.shields.io/github/stars/itmo-ai/itmo-open-source-list?style=flat-square) ![License](https://img.shields.io/github/license/itmo-ai/itmo-open-source-list?style=flat-square)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) 
+![Stars](https://img.shields.io/github/stars/itmo-ai/itmo-open-source-list?style=flat-square) 
+![License](https://img.shields.io/github/license/itmo-ai/itmo-open-source-list?style=flat-square)
 
 Репозиторий для сбора данных о открытых проектах ИТМО
 
@@ -87,15 +89,5 @@ Telegram-бот с мониторингом Google Sheets и системой п
 💬 **Telegram:** [@hammondddd](https://t.me/hammondddd)
 
 🔗 **GitHub:** [@HammonDDDDD](https://github.com/HammonDDDDD)
-
-</div>
-
----
-
-<div align="center">
-
-*"Создаю интеллектуальные системы, один агент за раз"* 🤖
-
-![Profile Views](https://komarev.com/ghpvc/?username=HammonDDDDD&color=blueviolet&style=flat-square&label=Просмотры+профиля)
 
 </div>
