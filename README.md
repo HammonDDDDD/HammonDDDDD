@@ -1,48 +1,103 @@
-### Привет! 👋
+<div align="center">
 
-Я — Денис Пышкин, студент компьютерных наук и начинающий ML-инженер.  
-Занимаюсь учебными и pet‑проектами вокруг Python и C#, люблю алгоритмы и автоматизацию, а также машинное обучение.
+# Привет!  👋 Я Денис Пышкин
 
----
+[![Telegram](https://img.shields.io/badge/Telegram-@hammondddd-blue?style=for-the-badge&logo=telegram)](https://t.me/hammondddd)
+[![Email](https://img.shields.io/badge/Email-denispyshkin2007@gmail.com-red?style=for-the-badge&logo=gmail)](mailto:denispyshkin2007@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-HammonDDDDD-black?style=for-the-badge&logo=github)](https://github.com/HammonDDDDD)
 
-### Чем занимаюсь сейчас
-
-- 🎓 Учусь в ITMO на направлении "Инженерия Искуствевнного Интеллекта"
-- 🐳 Оборачиваю проекты в Docker и экспериментирую с деплоем
-- 📚 Изучаю: асинхронный Python, PostgreSQL, архитектуру backend‑сервисов
+</div>
 
 ---
 
-### Стек и инструменты
+## 🎓 Обо мне
 
-**Языки:**  
-`Python` · `C#` · `C` · `JavaScript` · `TypeScript`  
+🎯 **Студент 1 курса** направления **"Инженерия искусственного интеллекта"** в [Университете ИТМО](https://itmo.ru)
 
-**Backend / Web:**  
-`aiohttp` · `requests`   
+🔬 **Лаборант** в лаборатории [AIST](https://iai.itmo.ru/) (Artificial Intelligence Systems and Technologies) Института искусственного интеллекта ИТМО
 
-**Инфра и DevOps:**  
-`Docker` · `Docker Compose`  
-
-**Инструменты:**  
-`Linux` · `PyCharm` · `CLion` · `WebStorm` · `Git`
+💡 Работаю над мультиагентными системами на базе LLM, автоматизацией процессов и разработкой интеллектуальных решений
 
 ---
 
-### GitHub статистика
+## 🛠️ Технологии и инструменты
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=HammonDDDDD&show_icons=true&theme=tokyonight&hide_border=true"
-    alt="GitHub stats"
-  />
-</p>
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
 
-<p align="center">
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=HammonDDDDD&layout=compact&theme=tokyonight&hide_border=true&size_weight=0.5&count_weight=0.5"
-    alt="Top langs"
-  />
-</p>
+**Ключевые направления:**
+- 🤖 Мультиагентные системы и LLM
+- 🔄 Автоматизация и боты (Telegram API)
+- 📊 Обработка и мониторинг данных
+- 🎮 Game Development (Unity)
+- 🧠 Backend разработка
 
 ---
+
+## 📊 GitHub Статистика
+
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=HammonDDDDD&show_icons=true&theme=tokyonight&hide_border=true&locale=ru)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-languages/? username=HammonDDDDD&layout=compact&theme=tokyonight&hide_border=true&locale=ru)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=HammonDDDDD&theme=tokyonight&hide_border=true&locale=ru)
+
+</div>
+
+---
+
+## 🚀 Проекты
+
+### 🤖 [AIST-Business-analyst-agent](https://github.com/HammonDDDDD/AIST-Business-analyst-agent)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/HammonDDDDD/AIST-Business-analyst-agent?style=flat-square)
+![License](https://img.shields.io/github/license/HammonDDDDD/AIST-Business-analyst-agent?style=flat-square)
+
+AI-агент бизнес-аналитика с мультиагентным воркфлоу для итеративной работы над спецификацией проектов
+
+---
+
+### 📊 [antibars-bot](https://github.com/HammonDDDDD/antibars-bot)
+![Python](https://img.shields.io/badge/Python-3776AB? style=flat-square&logo=python&logoColor=white)
+![Stars](https://img.shields.io/github/stars/HammonDDDDD/antibars-bot?style=flat-square)
+![License](https://img.shields.io/github/license/HammonDDDDD/antibars-bot?style=flat-square)
+
+Telegram-бот с мониторингом Google Sheets и системой подписок
+
+---
+
+### 🎮 [Steel-Ball](https://github.com/HammonDDDDD/Steel-Ball)
+![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=c-sharp&logoColor=white)
+![Unity](https://img.shields.io/badge/Unity-000000? style=flat-square&logo=unity&logoColor=white)
+![Stars](https://img.shields.io/github/stars/HammonDDDDD/Steel-Ball?style=flat-square)
+
+Игровой проект на Unity с физикой rigidbody
+
+---
+
+## 📫 Связь
+
+<div align="center">
+
+📧 **Email:** [denispyshkin2007@gmail.com](mailto:denispyshkin2007@gmail. com)
+
+💬 **Telegram:** [@hammondddd](https://t.me/hammondddd)
+
+🔗 **GitHub:** [@HammonDDDDD](https://github.com/HammonDDDDD)
+
+</div>
+
+---
+
+<div align="center">
+
+*"Создаю интеллектуальные системы, один агент за раз"* 🤖
+
+![Profile Views](https://komarev.com/ghpvc/?username=HammonDDDDD&color=blueviolet&style=flat-square&label=Просмотры+профиля)
+
+</div>
